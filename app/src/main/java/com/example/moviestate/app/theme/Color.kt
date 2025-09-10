@@ -1,4 +1,4 @@
-package com.example.moviestate.ui.theme
+package com.example.moviestate.app.theme
 
 import androidx.compose.ui.graphics.Color
 
